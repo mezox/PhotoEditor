@@ -14,13 +14,13 @@ Features:
   - visualization of image composed by single individual RGB channel
   
 Application:
-![App](http://imgur.com/FHlY2Ul)
+![App](http://i.imgur.com/FHlY2Ul.jpg)
 
 Histogram panel:
-![Histogram-panel](http://imgur.com/NAO0IzL)
+![Histogram-panel](http://i.imgur.com/NAO0IzL.png)
 
 Preview of R channel in RGB color space:
-![R-Channel](http://imgur.com/fHy2EvJ)
+![R-Channel](http://i.imgur.com/fHy2EvJ.png)
 
 Image before histogram equalization:
 ![NonEqualized](http://i.imgur.com/XOOMH2U.jpg)
