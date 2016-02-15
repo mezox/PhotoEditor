@@ -23,7 +23,7 @@ Preview of R channel in RGB color space:
 ![R-Channel](http://imgur.com/fHy2EvJ)
 
 Image before histogram equalization:
-![NonEqualized](http://imgur.com/XOOMH2U)
+![NonEqualized](http://i.imgur.com/XOOMH2U.jpg)
 
 Image after histogram equalization:
-![Equalized](http://imgur.com/ZKhLO5Z)
+![Equalized](http://i.imgur.com/ZKhLO5Z.jpg)
